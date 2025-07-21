@@ -30,7 +30,9 @@ SECRET_KEY = '!5i(rc1dg2bctz*hs5ru9zhvf--@hmjd@q1%)juorvnek0$@in'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+
+ALLOWED_HOSTS = ['grocery-1-p8rz.onrender.com', 'localhost', '127.0.0.1']
+
 
 
 # Application definition
